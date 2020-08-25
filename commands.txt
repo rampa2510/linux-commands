@@ -1,0 +1,3 @@
+1) I/O Redirection - 
+	a) command > file - Write the ouput of the command to a file eg - echo "hello" > hello.txt. Now hello.txt file will containe hello
+	b) command >> file - Append the output of the command to the hello.txt file. 
